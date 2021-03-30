@@ -1,0 +1,25 @@
+.assignment {
+    display: flex;
+    border: 2px solid #333;
+    border-radius: 8px;
+    align-items: center;
+    cursor: pointer;
+}
+
+.assignment:hover {
+    background-color: rgba(36, 138, 202, 0.2);
+}
+
+.assignment__icon {
+    /* width: 10%; */
+    padding: 10px 15px;
+    font-size: 3.5rem;
+    /* color: #2489CA; */
+    color: #333;
+}
+
+.assignment__info h4 {
+    margin: 0;
+    margin-bottom: .3em;
+    font-size: 1.05rem;
+}
