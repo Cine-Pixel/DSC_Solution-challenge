@@ -1,0 +1,12 @@
+header {
+    box-sizing: border-box;
+    height: var(--header-height);
+    padding: 10px 0;
+    background-color: #EBEBEB;
+    position: sticky;
+    top: 0;
+}
+
+.logo {
+    margin: 0;
+}
